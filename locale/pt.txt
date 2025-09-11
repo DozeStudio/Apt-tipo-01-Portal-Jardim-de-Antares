@@ -22,4 +22,4 @@ Image_00E6B36C_391F_493C_41CB_2D804A3EBBC6.url = skin/Image_00E6B36C_391F_493C_4
 ### Description
 
 ### Title
-tour.name = Sem Título 3
+tour.name = Apt-Antares-01
